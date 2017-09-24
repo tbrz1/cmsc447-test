@@ -1,0 +1,43 @@
+
+Congratulations Taylor.  You have found this file.
+
+If you did it through a web browser, boo.
+If you did it by cloning my repository, yay!
+
+Please complete the following steps:
+
+1.  Create a new git test respository with a name of your own choosing in
+    your own account.
+
+2.  Clone a copy of your new repository.
+
+3.  Transfer a copy of this file in your new repository (local clone).
+    Append a message of your own to the end of your new copy of this file.
+    Extra points for humor or insightfulness.
+    Haiku or limericks are allowed and encouraged.
+
+4.  Upload your modification to your test repository.
+    git add .
+    git commit -m "some phunny message"
+    git push
+
+5.  Send me an e-mail to tsyoo@umbc.edu.
+    The subject of your e-mail should be "CMSC 447 Homework 3"
+
+    The text of your e-mail should include the word "pumpkin"
+
+    As before, extra points for humor or insightfullness.
+    Haiku or limericks are allowed and encouraged.
+
+    The body of your e-mail also include your name.
+
+    In your e-mail, also include the link to your github repository
+    in your account with the modified copy of this file.
+
+--------------------------
+
+Add your message here.
+
+What did the cow say to the calf? 
+
+It's pasture bedtime
